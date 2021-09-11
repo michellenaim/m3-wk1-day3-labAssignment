@@ -9,7 +9,11 @@
   "author": "Michelle Naim",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "http-auth": "^4.1.9",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.0.5",
     "pug": "^3.0.2"
   },
   "devDependencies": {
